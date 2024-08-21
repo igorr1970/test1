@@ -1,1 +1,2 @@
 print('Igor')
+print('Привет')
